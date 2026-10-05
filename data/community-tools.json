@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "name": "La Plata",
+    "url": "https://laplata.one/en/",
+    "categories": [
+      "Financials",
+      "Macro Data",
+      "Screeners"
+    ],
+    "summary": "La Plata is a free research platform for Argentina’s economy and listed companies, bringing together dated market data, company profiles, financial indicators, exchange-rate references, and economic context with source dates and limitations. It helps investors and researchers study the Argentine market; it does not execute trades or provide personalized investment advice. Operated by Ekali LLC."
+  }
+]
