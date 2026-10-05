@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "name": "La Plata",
+    "url": "https://laplata.one/en/",
+    "categories": [
+      "Financials",
+      "Macro Data",
+      "Stock Comparison"
+    ],
+    "summary": "La Plata is a free research platform for Argentina’s economy and listed companies. It provides company profiles, financial indicators, dated BYMA data, and BCRA currency references; it is not a broker or adviser."
+  }
+]
